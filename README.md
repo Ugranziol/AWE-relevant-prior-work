@@ -45,8 +45,7 @@ Testolin's research contributes expertise in artificial intelligence, neural and
 Petruzzellis, F., Testolin, A., & Sperduti, A. (2024). Benchmarking GPT-4 on algorithmic problems: A systematic evaluation of prompting strategies. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*.  
 https://aclanthology.org/2024.lrec-main.195/
 
-Petruzzellis, F., Testolin, A., & Sperduti, A. (2026). Learning neuro-symbolic convergent term rewriting systems. *Artificial Intelligence*, 104622.  
-https://doi.org/10.1016/j.artint.2026.104622
+Romeo, Z., & Testolin, A. (2025). Artificial intelligence can emulate human normative judgments on emotional visual scenes. Royal Society Open Science, 12(7), 250128.
 
 ---
 
